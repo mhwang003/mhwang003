@@ -1,8 +1,8 @@
 
-<!-- - 🔭 I’m currently working on ...
-- 📫 How to reach me: ...
+- 🔭 I’m Interested in Robotics and Computer Vision
+- 📫 How to reach me: mhwang003@gmail.com
 
- -->
+
 
 
 
