@@ -1,5 +1,5 @@
 
-- 🔭 I’m Interested in Robotics and Computer Vision
+- 🔭 I'm interested in Robotics, Control theory, Computer vision and Machine learning.
 - 📫 How to reach me: mhwang003@gmail.com
 
 
